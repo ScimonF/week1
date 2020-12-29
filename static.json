@@ -1,0 +1,8 @@
+{
+  "headers": {
+    "/*": {
+      "X-Author": "daniilsimonov",
+      "Access-Control-Allow-Origin": "*"
+    }
+  }
+}
